@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+smoke_test.py
+STEP_BY_STEP.md
